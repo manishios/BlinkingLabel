@@ -22,7 +22,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-acct<blob>=<NULL>, mkumar01@ivycomptech.com
+acct<blob>=<NULL>, ios.curator@gmail.com
 
 ## License
 
